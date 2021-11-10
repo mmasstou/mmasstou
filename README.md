@@ -5,6 +5,6 @@
 ##📚 I am currently learning software engineering at [1337fil](https://1337.ma/)
 
 <br/>
-<img align="right" width="550" src="https://github-readme-stats-eight-virid.vercel.app/api?username=mohamed-m1&count_private=true&theme=calm&show_icons=true" />
+<img align="right" width="750" src="https://github-readme-stats-eight-virid.vercel.app/api?username=mohamed-m1&count_private=true&theme=calm&show_icons=true" />
 <img align="left"  src="https://github-readme-stats-eight-virid.vercel.app/api/top-langs/?username=mohamed-m1&layout=compact&count_private=false&theme=calm&show_icons=true" />
 <img >
