@@ -6,9 +6,11 @@
 
 
 <br/>
-<img align="center" width="750" src="https://badge42.herokuapp.com/api/stats/mmasstou" />
-<img align="center" width="750" src="https://github-readme-stats-eight-virid.vercel.app/api?username=mohamed-m1&count_private=true&theme=calm&show_icons=true" />
-<img align="left"  src="https://github-readme-stats-eight-virid.vercel.app/api/top-langs/?username=mohamed-m1&layout=compact&count_private=false&theme=calm&show_icons=true" />
+
+
+| [![mOhAmEd's GitHub stats](https://github-readme-stats-eight-virid.vercel.app/api?username=mohamed-m1&count_private=true&theme=calm&show_icons=true)](https://github.com/mohamed-m1?tab=repositories) | [![mOhAmEd's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-m1&layout=compact&hide_border=true&theme=jolly)](https://github.com/mohamed-m1?tab=repositories) |
+
+
 
 
 
