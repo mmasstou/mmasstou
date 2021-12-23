@@ -3,9 +3,10 @@
 ### I'm mOhAmEd,<br/> Student at [@1337fil](https://1337.ma/) Futur is Loading | Django Developpeur | Licencie Physique Electonique [UNVH2C](http://www.fsb.univh2c.ma)
 ## 💻 I am currently working on recreating [Fsbmcours](https://github.com/mmasstou/Fsbmcours) and [libft](https://github.com/mmasstou/libft)<br/> 📚 I am currently learning software engineering at [1337fil](https://1337.ma/)
 
-
+<p  align="center" >
 |[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=mmasstou)](https://github.com/mmasstou)|
 |:-:|
+</p>
 <br/>
 <p align="center">
 	<a href="#">
