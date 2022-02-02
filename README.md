@@ -4,7 +4,7 @@
 ## 💻 I am currently working on recreating [Fsbmcours](https://github.com/mmasstou/Fsbmcours) and [libft](https://github.com/mmasstou/libft)<br/> 📚 I am currently learning software engineering at [1337fil](https://1337.ma/)
 
 
-<p align="center"><a href="https://github.com/mmasstou"><img alt="Ask Me Anything" src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=mmasstou" /></a></p>
+<p align="center"><a href="https://github.com/mmasstou"><img alt="Ask Me Anything" src="https://badge42.herokuapp.com/api/stats/mmasstou?darkmode=true&cursus=42cursus" /></a></p>
 <br/>
 <p align="center">
 	<a href="=mailto:mmasstou@student.1337.ma">
