@@ -6,7 +6,8 @@
 
 <p align="center"><a href="https://github.com/mmasstou"><img src="https://badge42.vercel.app/api/v2/cl1wg22p9004909leo6e585au/stats?cursusId=21&coalitionId=74" alt="mmasstou's 42 stats" /></a></p>
 <br/>
-[![mmasstou's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl1wg22p9004909leo6e585au/project/2553910)](https://github.com/JaeSeoKim/badge42)
+
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl1wg22p9004909leo6e585au/project/2553910" alt="mmasstou's 42 push_swap Score" /></a>
 <p align="center">
 	<a href="=mailto:mmasstou@student.1337.ma">
 		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:mmasstou@student.1337.ma" />
