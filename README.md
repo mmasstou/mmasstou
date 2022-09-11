@@ -7,21 +7,3 @@
 <p align="center"><a href="https://github.com/mmasstou"><img src="[https://badge42.vercel.app/api/v2/cl1wg22p9004909leo6e585au/stats?cursusId=21&coalitionId=74]" alt="mmasstou's 42 stats" /></a></p>
 <br/>
 
-<p align="center">
-	<a href="=mailto:mmasstou@student.1337.ma">
-		<img alt="Ask Me Anything" src="https://img.shields.io/badge/-Ask_me_anything-blueviolet?style=flat&logo=Gmail&logoColor=white&link=mailto:mmasstou@student.1337.ma" />
-	</a>
-	<span> * </span>
-	<a href="#">
-		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=#" />
-	</a>
-</p>
---
-| [![mOhAmEd's GitHub stats](https://github-readme-stats-eight-virid.vercel.app/api?username=mmasstou&count_private=true&theme=calm&show_icons=true)](https://github.com/mmasstou?tab=repositories) | [![mmasstou's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmasstou&layout=compact&hide_border=true&theme=jolly)](https://github.com/mmasstou?tab=repositories) |
-|:-:|:-:|
-
-
-
-
-
-
