@@ -4,7 +4,7 @@
 ## 💻 I am currently working on recreating [Fsbmcours](https://github.com/mmasstou/Fsbmcours) and [libft](https://github.com/mmasstou/libft)<br/> 📚 I am currently learning software engineering at [1337fil](https://1337.ma/)
 
 
-<p align="center"><a href="https://github.com/mmasstou"><img src="https://badge42.vercel.app/api/v2/cl1wg22p9004909leo6e585au/stats?cursusId=21&coalitionId=74" alt="mmasstou's 42 stats" /></a></p>
+<p align="center"><a href="https://github.com/mmasstou"><img src="[https://badge42.vercel.app/api/v2/cl1wg22p9004909leo6e585au/stats?cursusId=21&coalitionId=74](https://badge.mediaplus.ma/darkblue/mmasstou)" alt="mmasstou's 42 stats" /></a></p>
 <br/>
 
 <p align="center">
@@ -17,7 +17,7 @@
 	</a>
 </p>
 --
-[![mmasstou's 42 stats](https://badge.mediaplus.ma/darkblue/mmasstou)](https://github.com/oakoudad/badge42)
+[![mmasstou's 42 stats](https://badge.mediaplus.ma/darkblue/mmasstou)]
 | [![mOhAmEd's GitHub stats](https://github-readme-stats-eight-virid.vercel.app/api?username=mmasstou&count_private=true&theme=calm&show_icons=true)](https://github.com/mmasstou?tab=repositories) | [![mmasstou's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmasstou&layout=compact&hide_border=true&theme=jolly)](https://github.com/mmasstou?tab=repositories) |
 |:-:|:-:|
 
