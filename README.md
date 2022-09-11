@@ -17,7 +17,7 @@
 	</a>
 </p>
 --
-
+[![mmasstou's 42 stats](https://badge.mediaplus.ma/darkblue/mmasstou)](https://github.com/oakoudad/badge42)
 | [![mOhAmEd's GitHub stats](https://github-readme-stats-eight-virid.vercel.app/api?username=mmasstou&count_private=true&theme=calm&show_icons=true)](https://github.com/mmasstou?tab=repositories) | [![mmasstou's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmasstou&layout=compact&hide_border=true&theme=jolly)](https://github.com/mmasstou?tab=repositories) |
 |:-:|:-:|
 
